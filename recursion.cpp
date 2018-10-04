@@ -20,3 +20,6 @@ int main() {
 	func(x);
 	system("pause");
 }
+
+
+@Marco
